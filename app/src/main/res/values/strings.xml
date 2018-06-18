@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Week1</string>
+    
+    <string name="distance_info">Khoảng cách  được tính bằng Google Map theo đường bộ</string>
+    <string name="btn_call_customer">Gọi điện cho khách</string>
+    <string name="item_code">Mã đơn hàng:</string>
+    <string name="item_status">Trạng thái:</string>
+    <string name="btn_call_shop">Gọi điện cho quán</string>
+    <string name="time_delivery">Giao trước</string>
+    <string name="status_bar_text">Sẵn sàng nhận đơn</string>
+    <string name="btn_refuse">Từ chối</string>
+    <string name="btn_receive">Nhận đơn</string>
+    <string name="total_money">Tiền cần thu</string>
+    <string name="wait_shipper">Chờ shipper nhận</string>
+    <string name="fetch_data">Fetch Data</string>
+</resources>
